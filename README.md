@@ -1,13 +1,15 @@
 ----AI SMART VAULT/SAVING BANK----
 
-VAULTO – AI Smart Vault / Intelligent Piggy Bank
+VAULTO – AI Smart Vault / Intelligent Saving Bank
 A Next-Generation AI + IoT Powered Smart Savings System
-<img src="/mnt/data/37b1ba8f-e090-4b00-92b1-a36aad6a3bc0.jpg" width="350">
+![WhatsApp Image 2025-11-21 at 21 22 14_0ca0ada6](https://github.com/user-attachments/assets/7ac80fd9-fdd4-49ac-8a2c-936b2f0688b2)
+
 
 OVERVIEW:-
 
 VAULTO is an AI-powered Smart Vault/Piggy Bank designed to revolutionize traditional saving methods. It combines physical money storage with digital tracking, AI assistance, IoT features, security monitoring, and automated analytics.
 Unlike ordinary piggy banks, VAULTO tracks deposits automatically, captures depositor photos, generates daily reports, predicts financial habits, and interacts through a voice-enabled AI assistant.
+
 
 System Architecture
 1. Hardware Layer (IoT + Sensors)
@@ -29,6 +31,7 @@ Speaker / DF-Player module for voice responses
 Camera module for depositor image capture
 
 Tilt/Motion sensor for theft detection
+
 
 2. Software / AI Layer (Python Desktop System)
 
@@ -90,7 +93,9 @@ Cloud platform shows real-time savings charts.
 
 Daily PDF report sent automatically via email.
 
+
 KEY FEATURES:-
+
 🔹 Intelligence
 
 AI-powered voice assistant
@@ -127,6 +132,7 @@ Real-time savings graphs
 
 
 TECHNOLOGIES USED:-
+
 
 ESP32
 
